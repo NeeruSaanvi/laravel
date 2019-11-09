@@ -1,0 +1,14 @@
+/* here you can put your own css to customize and override the theme */
+.switch-btn{
+	background:#fff;
+	padding-right:15px;
+}
+.switch-btn a{
+	color:#2b3643;
+}
+.switch-btn:hover{
+	background:#2b3643;
+}
+.switch-btn:hover a{
+	color:#fff;
+}

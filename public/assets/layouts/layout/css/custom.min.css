@@ -1,0 +1,54 @@
+.mentee li,.mentee>li>a, .mentee>li>a, .mentee>li>a:hover, .mentee>li>a:focus{background: #337ab7;
+text-align: center;color: #fff;}
+.mentee li.active,.mentee>li.active>a, .mentee>li.active>a:focus, .mentee>li.active>a:hover{background: #ed6b75;
+text-align: center;color: #fff;}
+.switch-btn{
+	background:#fff;
+}
+.switch-btn a{
+	padding-right:15px !important;
+	color:#2b3643;
+}
+.switch-btn:hover{
+	background:#2b3643;
+}
+.switch-btn:hover a{
+	color:#fff;
+}
+.page-title small a{background: #337ab7;
+color: #fff;
+padding: 5px;
+}
+.checkbox, .form-horizontal .checkbox{
+	    margin-right: 10px;
+    float: left;
+}
+.checkbox+span{
+	display: block;
+	padding-top: 3px;
+}
+.wysihtml5{
+	min-height:200px; 
+}
+.inbox-view-info{
+	line-height: 24px;
+}
+.mt-widget-1 .mt-img{
+	max-height: 100px;
+	overflow:hidden;
+	    margin: 40px 15px 30px;
+}
+.mt-widget-1 .mt-img>img {
+    border: 1px solid transparent;
+     border-radius: 0%!important; 
+    }
+    span.stars, span.stars span {
+    display: block;
+    background: url('/images/stars.png') 0 -16px repeat-x;
+    width: 80px;
+    height: 16px;
+}
+
+span.stars span {
+    background-position: 0 0;
+}
